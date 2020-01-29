@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79189c2f-3bf5-4470-899e-c0d705aab71e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WbE9RHas4TBQ5FjM7eVyhkDtpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Testservlet" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../volume_work/github/opensource/Spark/SparkDPTemplate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../volume_work/github/opensource/Spark/SparkDataPipeline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../volume_work/github/opensource/SpringBoot/spring-boot-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79189c2f-3bf5-4470-899e-c0d705aab71e" name="Default Changelist" comment="" />
+      <created>1579409741621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579409741621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579411207604">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="184" y="100" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.842@0.23.1440.842" timestamp="1579411207604" />
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1579416535337">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1440.842@0.23.1440.842" timestamp="1579416535337" />
+    <state x="100" y="123" width="1240" height="642" key="DiffContextDialog" timestamp="1579415186017">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="100" y="123" width="1240" height="642" key="DiffContextDialog/0.23.1440.842@0.23.1440.842" timestamp="1579415186017" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1579471839260">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1579471839260" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1579471839259">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1579471839259" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1579471839259">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1579471839259" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1579471839260">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1579471839260" />
+    <state x="221" y="83" key="SettingsEditor" timestamp="1579410426704">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="221" y="83" key="SettingsEditor/0.23.1440.842@0.23.1440.842" timestamp="1579410426704" />
+    <state x="385" y="189" width="670" height="676" key="search.everywhere.popup" timestamp="1579416620049">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state x="385" y="189" width="670" height="676" key="search.everywhere.popup/0.23.1440.842@0.23.1440.842" timestamp="1579416620049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/DemoServlet.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
